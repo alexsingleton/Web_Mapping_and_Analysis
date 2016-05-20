@@ -25,7 +25,8 @@ Assignment 2: Using either CartoDB or Mapbox Studio, create an Index of Multiple
 
 * Language basics
 * Basic data wrangling
-* Reading and Resources:
+
+**Reading and Resources:**
 
 * Field, A., Miles, J., Field, Z. (2012) Discovering statistics using R. London: Sage.
 * Haklay, M., Singleton, A., and Parker, C. (2008). Web Mapping 2.0: The Neogeography of the GeoWeb. Geography Compass, 2(6):2011-2039.
@@ -37,23 +38,24 @@ Assignment 2: Using either CartoDB or Mapbox Studio, create an Index of Multiple
 
 **Files:**
 
-* Presentation: [Lecture 1](/Lecturers/Lecture_1.pdf)
+* Presentation: [Lecture 1](/Lectures/Lecture_1.pdf)
 * Lab: HTML
 * Lab Files (Zip): Download
 
 ### Week 2
 
-Lecture: R for Mapping
+**Lecture: R for Mapping**
 
-An example of R for mapping
-R as a GIS
-Basic R for making maps
-R Studio
-Practical: Using R for Mapping and Vizualization
+* An example of R for mapping
+* R as a GIS
+* Basic R for making maps
+* R Studio
 
-Graphs in ggplot
-Importing spatial data
-Creating maps with points, lines and polygons
+**Practical: Using R for Mapping and Vizualization**
+
+* Graphs in ggplot
+* Importing spatial data
+* Creating maps with points, lines and polygons
 Reading and Resources:
 
 Chapter 5 - â€œRepresenting Geographyâ€ in Longley, P., Goodchild, M., Maguire, D., Rhind, D. (2015) Geographic Information Science and Systems. Hoboken, NJ: Wiley.
