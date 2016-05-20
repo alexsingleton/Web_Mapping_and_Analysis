@@ -18,27 +18,30 @@ Assignment 2: Using either CartoDB or Mapbox Studio, create an Index of Multiple
 
 **Lecture: An Introduction to Web Mapping and Analysis**
 
-Module structure, delivery and context
-Background / history of the Geoweb
-Practical: An Introduction to the R Language
+* Module structure, delivery and context
+* Background / history of the Geoweb
 
-Language basics
-Basic data wrangling
-Reading and Resources:
+**Practical: An Introduction to the R Language**
 
-Field, A., Miles, J., Field, Z. (2012) Discovering statistics using R. London: Sage.
-Haklay, M., Singleton, A., and Parker, C. (2008). Web Mapping 2.0: The Neogeography of the GeoWeb. Geography Compass, 2(6):2011â€“2039.
-Chapter 10 - â€œThe Geowebâ€ in Longley, P., Goodchild, M., Maguire, D., Rhind, D. (2015) Geographic Information Science and Systems. Hoboken, NJ: Wiley.
-Chapter 2 - â€œData and Plotsâ€ in Brunsdon, C., Comber, L. (2015) An Introduction to R for Spatial Analysis and Mapping. London: Sage.
-Code School
+* Language basics
+* Basic data wrangling
+* Reading and Resources:
 
-R: https://www.codeschool.com/courses/try-r
-Files:
+* Field, A., Miles, J., Field, Z. (2012) Discovering statistics using R. London: Sage.
+* Haklay, M., Singleton, A., and Parker, C. (2008). Web Mapping 2.0: The Neogeography of the GeoWeb. Geography Compass, 2(6):2011-2039.
+* Chapter 10 - "The Geoweb" in Longley, P., Goodchild, M., Maguire, D., Rhind, D. (2015) Geographic Information Science and Systems. Hoboken, NJ: Wiley.
+* Chapter 2 - "Data and Plots" in Brunsdon, C., Comber, L. (2015) An Introduction to R for Spatial Analysis and Mapping. London: Sage.
 
-Presentation: Lecture 1
-Lab: HTML
-Lab Files (Zip): Download
-Week 2
+* Code School
+	* R: https://www.codeschool.com/courses/try-r
+
+**Files:**
+
+* Presentation: [Lecture 1](/Lecturers/Lecture_1.pdf)
+* Lab: HTML
+* Lab Files (Zip): Download
+
+### Week 2
 
 Lecture: R for Mapping
 
@@ -80,7 +83,7 @@ Reading and Resources:
 
 Dodge, M., Kitchin, R. (2001) Atlas of Cyberspace. Boston: Pearson.
 Kurose, J.F., Ross,K.W. (2013) Computer networking: a top-down approach. Boston: Pearson.
-Riddlesden, D. and Singleton, A. (2014). Broadband speed equity: A new digital divide?. Applied Geography, 52, 25â€“33.
+Riddlesden, D. and Singleton, A. (2014). Broadband speed equity: A new digital divide?. Applied Geography, 52, 25-33.
 Files:
 
 Presentation: Lecture 3
@@ -114,7 +117,7 @@ Functions
 Reading and Resources:
 
 Kitchin, R. (2014) The Data Revolution: Big Data, Open Data, Data Infrastructures & Their Consequences. London: Sage.
-Goodchild, M.F. (2007) Citizens as sensors: the world of volunteered geography. GeoJournal 69 (4): 211â€“221.
+Goodchild, M.F. (2007) Citizens as sensors: the world of volunteered geography. GeoJournal 69 (4): 211-221.
 Hacklay, M, Weber, P. (2008) OpenStreetMap: User-Generated Street Maps Pervasive Computing, IEEE (Volume:7, Issue: 4) Available from http://discovery.ucl.ac.uk/13849/1/13849.pdf
 Russell, M.A. (2013) Mining the Social Web. Second Edition. Sebastopol, CA: Oâ€™Reilly Media.
 Files:
@@ -204,7 +207,7 @@ Lecture / Practical : Web Mapping Back End: Tiles & An Introduction to Cartodb
 What are tilesâ€¦
 Servers
 Web server
-Tile server â€“ e.g.Â tilestache
+Tile server - e.g.Â tilestache
 Web mapping Standards
 WMS / TMS etc
 Tile Creation
@@ -233,7 +236,7 @@ Custom OpenStreetMap Styling and CartoCSS
 Reading and Resources:
 
 Krygier, J, Wood, D. (2011) Making Maps. A Visual Guide to Design for GIS. New York: Guilford Press.
-Singleton, A. and Brunsdon, C. (2014) Escaping the pushpin paradigm in geographic information science: (re)presenting national crime data. Area, 46(3), 294â€“304.
+Singleton, A. and Brunsdon, C. (2014) Escaping the pushpin paradigm in geographic information science: (re)presenting national crime data. Area, 46(3), 294-304.
 Tufte, E. (2001) The Visual Display of Quantitative Information. Second Edition. Connecticut: Graphics Press.
 Yau, N. (2011) Visualize This: The Flowing Data Guide to Design, Visualization and Statistics. New York: Wiley.
 Blogs / Websites
