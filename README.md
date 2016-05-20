@@ -39,7 +39,7 @@ Assignment 2: Using either CartoDB or Mapbox Studio, create an Index of Multiple
 **Files:**
 
 * Presentation: [Lecture 1](/Lectures/Lecture_1.pdf)
-* Lab: HTML
+* Lab: [HTML](/Practicals/P1.html)
 * Lab Files (Zip): Download
 
 ### Week 2
