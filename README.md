@@ -242,12 +242,12 @@ Presentation: [Lecture 7](/Lectures/Lecture_7.pdf)
 
 **Files:**
 
-Presentation: [Lecture 8](/Lectures/Lecture_8.pdf)
-Lab: [PDF](/Practicals/P8.pdf)
-Lab File 1 (Zip): [Download](/Practicals/IMD.zip)
-Lab File 2 (Zip): [Download](/Practicals/P8_road.zip)
-Lab File 3 (CSV): [Download](/Practicals/P8_crime.csv)
-Lab File 4 (HTML): [Download](/Practicals/P8_template.html)
+* Presentation: [Lecture 8](/Lectures/Lecture_8.pdf)
+* Lab: [PDF](/Practicals/P8.pdf)
+* Lab File 1 (Zip): [Download](/Practicals/IMD.zip)
+* Lab File 2 (Zip): [Download](/Practicals/P8_road.zip)
+* Lab File 3 (CSV): [Download](/Practicals/P8_crime.csv)
+* Lab File 4 (HTML): [Download](/Practicals/P8_template.html)
 
 ###Week 9:
 
@@ -291,5 +291,5 @@ Lab File 4 (HTML): [Download](/Practicals/P8_template.html)
 
 **Files:**
 
-Presentation (PowerPoint): [Lecture 8](/Lectures/Lecture_10.pdf)
+Presentation (PowerPoint): [Lecture 10](/Lectures/Lecture_10.pdf)
 
