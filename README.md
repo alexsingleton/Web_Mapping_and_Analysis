@@ -39,8 +39,8 @@ Assignment 2: Using either CartoDB or Mapbox Studio, create an Index of Multiple
 **Files:**
 
 * Presentation: [Lecture 1](/Lectures/Lecture_1.pdf)
-* Lab: [HTML](/Practicals/P1.html)
-* Lab Files (Zip): Download
+* Lab: [HTML](/Practicals/P1.pdf)
+* Lab Files (Zip): [Download](/Practicals/P1.zip)
 
 ### Week 2
 
@@ -56,210 +56,240 @@ Assignment 2: Using either CartoDB or Mapbox Studio, create an Index of Multiple
 * Graphs in ggplot
 * Importing spatial data
 * Creating maps with points, lines and polygons
-Reading and Resources:
 
-Chapter 5 - â€œRepresenting Geographyâ€ in Longley, P., Goodchild, M., Maguire, D., Rhind, D. (2015) Geographic Information Science and Systems. Hoboken, NJ: Wiley.
-Chapter 3 - â€œHandling Spatial Data in Râ€ in Brunsdon, C., Comber, L. (2015) An Introduction to R for Spatial Analysis and Mapping. London: Sage.
-Chapter 1 - â€œSpatial Data Visualization in Râ€ in Brunsdon, C., Singleton, A.D. Geocomputation: A Practical Primer. London: Sage.
-Files:
+**Reading and Resources:**
 
-Presentation: Lecture 2
-Lab: HTML
-Lab Files (Zip): Download
-Week 3
+* Chapter 5 - "Representing Geography" in Longley, P., Goodchild, M., Maguire, D., Rhind, D. (2015) Geographic Information Science and Systems. Hoboken, NJ: Wiley.
+* Chapter 3 - "Handling Spatial Data in R" in Brunsdon, C., Comber, L. (2015) An Introduction to R for Spatial Analysis and Mapping. London: Sage.
+* Chapter 1 - "Spatial Data Visualization in R" in Brunsdon, C., Singleton, A.D. Geocomputation: A Practical Primer. London: Sage.
 
-Lecture: The Anatomy and Social Science of the Internet
+**Files:**
 
-Internet infrastructure
-Servers
-Communication protocols - HTTP etc; authentication - oa auth
-Broadband speeds and constraints
-Social context - use and engagement
-Practical: Linking R to the Web (Mapping and Analysis)
+* Presentation: [Lecture 2](/Lectures/Lecture_2.pdf)
+* Lab: [HTML](/Practicals/P2.pdf)
+* Lab Files (Zip): [Download](/Practicals/P2.zip)
 
-R Google maps
-ggmap
-geocoding
-Google Routing
-Reading and Resources:
+### Week 3
 
-Dodge, M., Kitchin, R. (2001) Atlas of Cyberspace. Boston: Pearson.
-Kurose, J.F., Ross,K.W. (2013) Computer networking: a top-down approach. Boston: Pearson.
-Riddlesden, D. and Singleton, A. (2014). Broadband speed equity: A new digital divide?. Applied Geography, 52, 25-33.
-Files:
+**Lecture: The Anatomy and Social Science of the Internet**
 
-Presentation: Lecture 3
-Lab: HTML
-Lab Files (Zip): Download
-Week 4
+* Internet infrastructure
+* Servers
+* Communication protocols - HTTP etc; authentication - oa auth
+* Broadband speeds and constraints
+* Social context - use and engagement
 
-The Internet as a Geographic Data Source
+**Practical: Linking R to the Web (Mapping and Analysis)**
 
-Passive V Active Data Collection
-Sensors
-People
-Environment
-Volunteered Geographic Information (VGI)
-OpenStreetMap
-Bias
-Data formats
-CSV
-XML / JSON etc
-Web API
-Practical: Linking R to the Web (Data)
+* R Google maps
+* ggmap
+* geocoding
+* Google Routing
 
-Reading CSV from the web
-Police.uk - https://data.police.uk/data/
-Department for Education
-Rcurl
-API examples
-Wikipedia
-Twitter
-Functions
-Reading and Resources:
+**Reading and Resources:**
 
-Kitchin, R. (2014) The Data Revolution: Big Data, Open Data, Data Infrastructures & Their Consequences. London: Sage.
-Goodchild, M.F. (2007) Citizens as sensors: the world of volunteered geography. GeoJournal 69 (4): 211-221.
-Hacklay, M, Weber, P. (2008) OpenStreetMap: User-Generated Street Maps Pervasive Computing, IEEE (Volume:7, Issue: 4) Available from http://discovery.ucl.ac.uk/13849/1/13849.pdf
-Russell, M.A. (2013) Mining the Social Web. Second Edition. Sebastopol, CA: Oâ€™Reilly Media.
-Files:
+* Dodge, M., Kitchin, R. (2001) Atlas of Cyberspace. Boston: Pearson.
+* Kurose, J.F., Ross,K.W. (2013) Computer networking: a top-down approach. Boston: Pearson.
+* Riddlesden, D. and Singleton, A. (2014). Broadband speed equity: A new digital divide?. Applied Geography, 52, 25-33.
 
-Presentation: Lecture 4
-Lab: HTML
-Lab Files (Zip): Noneâ€¦
-Week 5:
+**Files:**
 
-Lecture: Coding Basic Web Pages
+* Presentation: [Lecture 3](/Lectures/Lecture_3.pdf)
+* Lab: [HTML](/Practicals/P3.pdf)
+* Lab Files (Zip): [Download](/Practicals/P3.zip)
 
-HTML
-CSS
-Bootstrap (and other frameworks)
-Interactivity
-Javascript and frameworks
-PHP
-Node.js
-Practical: Interactive Mapping in R Pt 1
 
-Creating basic Leaflet spatial data interfaces
-Reading and Resources:
+### Week 4
 
-Ducket,J. (2011) HTML & CSS. Indianapolis, USA: Wiley.
-Leaflet (2015) API Reference. Available from: http://leafletjs.com/reference.html
-Ducket, J. (2014) JavaScript & jQuery : interactive front-end web development. Indianapolis, USA: Wiley.
-Code School
+**Lecture: The Internet as a Geographic Data Source**
 
-JQuery: https://www.codeschool.com/courses/try-jquery
-SQL: https://www.codeschool.com/courses/try-sql
-Files:
+* Passive V Active Data Collection
+	* Sensors
+	* People
+	* Environment
+* Volunteered Geographic Information (VGI)
+	* OpenStreetMap
+	* Bias
+* Data formats
+	* CSV
+	* XML / JSON etc
+	* Web API
 
-Presentation: Lecture 5
-Lab: HTML
-Lab Files (Zip): Download
-Week 6:
+**Practical: Linking R to the Web (Data)**
+* Reading CSV from the web
+* Police.uk - https://data.police.uk/data/
+* Department for Education
+* Rcurl
+* API examples
+	* Wikipedia
+	* Twitter
+	* Functions
 
-Lecture: Web Mapping Interfaces
+**Reading and Resources:**
 
-Overview of Web Mapping Stack
-What are â€œslippy mapsâ€?
-Interfaces
-OpenLayers
-Leaflet
-D3
-Leaflet Example
-Practical: Interactive Mapping in R Pt 2
+* Kitchin, R. (2014) The Data Revolution: Big Data, Open Data, Data Infrastructures & Their Consequences. London: Sage.
+* Goodchild, M.F. (2007) Citizens as sensors: the world of volunteered geography. GeoJournal 69 (4): 211-221.
+* Hacklay, M, Weber, P. (2008) OpenStreetMap: User-Generated Street Maps Pervasive Computing, IEEE (Volume:7, Issue: 4) Available from http://discovery.ucl.ac.uk/13849/1/13849.pdf
+* Russell, M.A. (2013) Mining the Social Web. Second Edition. Sebastopol, CA: Oâ€™Reilly Media.
 
-Creating basic Leaflet spatial data interfaces
-Reading and Resources:
+**Files:**
 
-Leaflet - http://leafletjs.com/
-Files:
+* Presentation: [Lecture 4](/Lectures/Lecture_4.pdf)
+* Lab: [HTML](/Practicals/P4.pdf)
+* Lab Files (Zip): None
 
-Presentation: Lecture 6
-Lab: See week 5â€¦
-Week 7:
+### Week 5:
 
-Lecture: Web Mapping Back End: Spatial Databases
+**Lecture: Coding Basic Web Pages**
 
-What are databases?
-Examples
-MYSQL
-PostgreSQL
-SQL
-Spatial Databases
-PostGIS (and other spatial databases)
-Spatial Query
-Practical: Assignment 1 Clinic
+* HTML
+* CSS
+* Bootstrap (and other frameworks)
+* Interactivity
+* Javascript and frameworks
+* PHP
+* Node.js
 
-An optional clinic for assistance with assignment 1.
-Reading and Resources:
+**Practical: Interactive Mapping in R Pt 1**
 
-Boundless (2015) Introduction to Geoserver. Available here: http://workshops.boundlessgeo.com/geoserver-intro/
-Boundless (2015) An Introduction to PostGIS - http://workshops.boundlessgeo.com/postgis-intro/
-Mapbox (2015) Mapbox Studio Classic source quickstart. Available from: https://www.mapbox.com/guides/source-quickstart/
-CartoDB (2015) CartoDB Tutorials. Available from: http://docs.cartodb.com/tutorials/
-Files:
+* Creating basic Leaflet spatial data interfaces
 
-Presentation: Lecture 7
-Lab: HTML
-Lab Files (Zip): Download
-Week 8
+**Reading and Resources:**
 
-Lecture / Practical : Web Mapping Back End: Tiles & An Introduction to Cartodb
+* Ducket,J. (2011) HTML & CSS. Indianapolis, USA: Wiley.
+* Leaflet (2015) API Reference. Available from: http://leafletjs.com/reference.html
+* Ducket, J. (2014) JavaScript & jQuery : interactive front-end web development. Indianapolis, USA: Wiley.
 
-What are tilesâ€¦
-Servers
-Web server
-Tile server - e.g.Â tilestache
-Web mapping Standards
-WMS / TMS etc
-Tile Creation
-Geoserver
-Mapnik
-Mapbox Studio
-An extended example of Cartodbâ€¦
-Files:
+**Code School**
 
-Presentation: Lecture 8
-Lab: PDF
-Lab File 1 (Zip): Download
-Lab File 2 (Zip): Download
-Lab File 3 (CSV): Download
-Lab File 4 (HTML): Download
-Week 9:
+* JQuery: https://www.codeschool.com/courses/try-jquery
+* SQL: https://www.codeschool.com/courses/try-sql
 
-Lecture: Cartography and Web Mapping
+**Files:**
 
-Purpose of a map
-Different types of map
-Components of a map
-Practical: An Introduction to Mapbox Studio
+* Presentation: [Lecture 5](/Lectures/Lecture_5.pdf)
+* Lab: [HTML](/Practicals/P5_6.pdf)
+* Lab Files (Zip): [Download](/Practicals/P5_6.zip)
 
-Custom OpenStreetMap Styling and CartoCSS
-Reading and Resources:
+### Week 6:
 
-Krygier, J, Wood, D. (2011) Making Maps. A Visual Guide to Design for GIS. New York: Guilford Press.
-Singleton, A. and Brunsdon, C. (2014) Escaping the pushpin paradigm in geographic information science: (re)presenting national crime data. Area, 46(3), 294-304.
-Tufte, E. (2001) The Visual Display of Quantitative Information. Second Edition. Connecticut: Graphics Press.
-Yau, N. (2011) Visualize This: The Flowing Data Guide to Design, Visualization and Statistics. New York: Wiley.
-Blogs / Websites
+**Lecture: Web Mapping Interfaces**
 
-Stamen Blog (http://content.stamen.com/)
-Mapbox Blog (https://www.mapbox.com/blog/)
-ArcGIS Book - http://learn.arcgis.com/en/arcgis-book/
-Files:
+* Overview of Web Mapping Stack
+* What are "slippy maps"?
+* Interfaces
+* OpenLayers
+* Leaflet
+* D3
+* Leaflet Example
 
-Presentation (PowerPoint): Lecture 9
-Lab: PDF
-Week 10
+**Practical: Interactive Mapping in R Pt 2**
 
-Lecture: A Gallery of Web Mapping and Analysis Applications
+* Creating basic Leaflet spatial data interfaces
 
-This lecture presents a range of web mapping and analysis applications.
+**Reading and Resources:**
 
-Practical: Assignment 2 Clinic
+* Leaflet - http://leafletjs.com/
 
-An optional clinic for assistance with assignment 1.
-Files:
+**Files:**
 
-Presentation (PowerPoint): Lecture 10
+* Presentation: [Lecture 6](/Lectures/Lecture_6.pdf)
+* Lab: See week 5
+
+### Week 7:
+
+**Lecture: Web Mapping Back End: Spatial Databases**
+
+* What are databases?
+* Examples
+	* MYSQL
+	* PostgreSQL
+	* SQL
+* Spatial Databases
+	* PostGIS (and other spatial databases)
+	* Spatial Query
+
+**Practical: Assignment 1 Clinic**
+
+* An optional clinic for assistance with assignment 1.
+
+**Reading and Resources:**
+
+* Boundless (2015) Introduction to Geoserver. Available here: http://workshops.boundlessgeo.com/geoserver-intro/
+* Boundless (2015) An Introduction to PostGIS - http://workshops.boundlessgeo.com/postgis-intro/
+* Mapbox (2015) Mapbox Studio Classic source quickstart. Available from: https://www.mapbox.com/guides/source-quickstart/
+* CartoDB (2015) CartoDB Tutorials. Available from: http://docs.cartodb.com/tutorials/
+
+**Files:**
+
+Presentation: [Lecture 7](/Lectures/Lecture_7.pdf)
+
+### Week 8:
+
+**Lecture / Practical : Web Mapping Back End: Tiles & An Introduction to Cartodb**
+
+* What are tiles?
+* Servers
+* Web server
+* Tile server
+* Web mapping Standards
+* WMS / TMS etc
+* Tile Creation
+* Geoserver
+* Mapnik
+* Mapbox Studio
+* An extended example of Cartodb?
+
+**Files:**
+
+Presentation: [Lecture 8](/Lectures/Lecture_8.pdf)
+Lab: [PDF](/Practicals/P8.pdf)
+Lab File 1 (Zip): [Download](/Practicals/IMD.zip)
+Lab File 2 (Zip): [Download](/Practicals/P8_road.zip)
+Lab File 3 (CSV): [Download](/Practicals/P8_crime.csv)
+Lab File 4 (HTML): [Download](/Practicals/P8_template.html)
+
+###Week 9:
+
+**Lecture: Cartography and Web Mapping**
+
+* Purpose of a map
+* Different types of map
+* Components of a map
+
+**Practical: An Introduction to Mapbox Studio**
+
+* Custom OpenStreetMap Styling and CartoCSS
+
+**Reading and Resources:**
+
+* Krygier, J, Wood, D. (2011) Making Maps. A Visual Guide to Design for GIS. New York: Guilford Press.
+* Singleton, A. and Brunsdon, C. (2014) Escaping the pushpin paradigm in geographic information science: (re)presenting national crime data. Area, 46(3), 294-304.
+* Tufte, E. (2001) The Visual Display of Quantitative Information. Second Edition. Connecticut: Graphics Press.
+* Yau, N. (2011) Visualize This: The Flowing Data Guide to Design, Visualization and Statistics. New York: Wiley.
+
+**Blogs / Websites:**
+
+* Stamen Blog (http://content.stamen.com/)
+* Mapbox Blog (https://www.mapbox.com/blog/)
+* ArcGIS Book - http://learn.arcgis.com/en/arcgis-book/
+
+**Files:**
+
+* Presentation (PowerPoint): [Lecture 9](/Lectures/Lecture_8.pdf)
+* Lab: [PDF](/Practicals/P9.pdf)
+
+### Week 10
+
+**Lecture: A Gallery of Web Mapping and Analysis Applications**
+
+* This lecture presents a range of web mapping and analysis applications.
+
+**Practical: Assignment 2 Clinic**
+
+* An optional clinic for assistance with assignment 1.
+
+**Files:**
+
+Presentation (PowerPoint): [Lecture 8](/Lectures/Lecture_10.pdf)
 
