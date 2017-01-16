@@ -1,8 +1,5 @@
----
-title:  Module Overview
-output:
-  html_document
----
+#Module Overview
+
 #Aims
 
 The module has two main aims. First, it seeks to to provide hands-on experience and training in the design and generation of web-based mapping and geographical information tools. Second, it seeks to provide hands-on experience and training in the use of software to access, analyse and visualize web-based geographical information.
@@ -32,7 +29,7 @@ The module has two main aims. First, it seeks to to provide hands-on experience 
 
 
 ## Staff
-The module lead is Professor Alex Singleton who can be contacted at [alex.singleton@liverpool.ac.uk](mailto:alex.singleton@liverpool.ac.uk) regarding any queries related to the module.  Content is being delivered by a number of other academics within the [Geographic Data Science Lab](http://geographicdatascience.com/) including Hai Nguyen, Kostas Daras and Michail Pavlis.
+The module lead is Gavin Dong who can be contacted at [guanpeng.dong@liverpool.ac.uk](mailto:guanpeng.dong@liverpool.ac.uk) regarding any queries related to the module.  Content is being delivered by a number of other academics within the [Geographic Data Science Lab](http://geographicdatascience.com/) including Hai Nguyen, Kostas Daras and Michail Pavlis.
 
 # Assignments
 
